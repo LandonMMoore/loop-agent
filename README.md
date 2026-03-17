@@ -24,7 +24,7 @@ Loop knows how to:
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/LandonMMoore/loop-agent.git ~/loop-agent
+git clone git@github.com:LandonMMoore/loop-agent.git ~/loop-agent
 ```
 
 ### 2. Fill in your USER.md
