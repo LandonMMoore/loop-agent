@@ -1,0 +1,4 @@
+memory/
+.openclaw/
+*.env
+.DS_Store
